@@ -11,12 +11,12 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Le dossier de Frebie&Bardo<a href="http://lefr3998.odns.fr/pdf">Click ici cono!</a>
+          C'est ici mon gar !!!!<a href="http://lefr3998.odns.fr/pdf">Next.js!</a>
         </h1>
 
         <p className={styles.description}>
-         Gros batard ?{' '}
-          <code className={styles.code}>Tu dois nous la louer !</code>
+          Get started by editing{' '}
+          <code className={styles.code}>pages/index.js</code>
         </p>
 
         <div className={styles.grid}>
